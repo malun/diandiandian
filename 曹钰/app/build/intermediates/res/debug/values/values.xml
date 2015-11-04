@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/F:/SBProject/SB/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/F:/SBProject/SB/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_1">1</string>
+    <string name="action_1_false">1_false</string>
+    <string name="action_1_true">1_true</string>
+    <string name="action_2">2</string>
+    <string name="action_2_false">2_false</string>
+    <string name="action_2_true">2_true</string>
+    <string name="action_3">3</string>
+    <string name="action_3_false">3_false</string>
+    <string name="action_3_true">3_true</string>
+    <string name="action_Fpace">主页</string>
+    <string name="action_P">分数排行</string>
+    <string name="action_X">X</string>
+    <string name="action_back">返回主菜单</string>
+    <string name="action_gameover">游戏结束！</string>
+    <string name="action_help">帮助</string>
+    <string name="action_highscale">!目前最高分：</string>
+    <string name="action_scale">分数：</string>
+    <string name="action_settings">设置</string>
+    <string name="action_start">开始游戏</string>
+    <string name="action_volceSet">声音开/关</string>
+    <string name="action_welcome">欢迎</string>
+    <string name="action_初始分数">分数：0</string>
+    <string name="action_游戏说明">     在60分钟内点击给出物品以及提示所对应的颜色按钮获得分数，分数越高，排行越高。</string>
+    <string name="app_name">SB</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/F:/SBProject/SB/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
